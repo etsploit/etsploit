@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Blog: https://etsplo.it/
+Notes: https://notes.etsplo.it/
 HTB Profile: https://app.hackthebox.com/profile/1024841
 
 
