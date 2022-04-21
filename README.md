@@ -1,16 +1,16 @@
-### Hi there 👋
+### Etsploit
 
-Blog: https://etsplo.it/
-Notes: https://notes.etsplo.it/
-HTB Profile: https://app.hackthebox.com/profile/1024841
+- Blog: https://etsplo.it/
+- Notes: https://notes.etsplo.it/
+- HTB Profile: https://app.hackthebox.com/profile/1024841
 
-
+<!---
 - 🔭 I’m currently working on ... crypto application security stuff
 - 🌱 I’m currently learning ... rust and anchor
 - 👯 I’m looking to collaborate on crypto application security tools
 - 🤔 I’m looking for help with ... nothing at the moment
 - 📫 How to reach me: ... twitter probbaly best
-
+-->
 
 #### Certifications
 Org | Cert
