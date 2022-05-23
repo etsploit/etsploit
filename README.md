@@ -1,5 +1,9 @@
-### Etsploit
+# Etsploit
 
+## Projects I'm working on:
+Mango Heroes: https://github.com/Mango-Heroes
+
+## Other Stuff: 
 - Blog: https://etsplo.it/
 - Notes: https://notes.etsplo.it/
 - HTB Profile: https://app.hackthebox.com/profile/1024841
@@ -12,7 +16,7 @@
 - 📫 How to reach me: ... twitter probbaly best
 -->
 
-#### Certifications
+## Certifications
 Org | Cert
 ---- | ----
 ISACA:			| CISA (Certified Information System Auditor)
