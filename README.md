@@ -27,7 +27,6 @@ Oracle: |Oracle Autonomous Database Cloud Specialist, Oracle Cloud Infrastructur
 Cloud Security Alliance:| CCSK (Certificate of Cloud Security Knowledge V4)
 AAIFM: |CICA (Certified Internal Control Auditor)
 ISI: | Scrum Master Certified (SMC)
-ISC2: | CISSP (Certified Information Systems Security Professional)
 
 
 
