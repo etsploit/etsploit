@@ -28,6 +28,3 @@ Cloud Security Alliance:| CCSK (Certificate of Cloud Security Knowledge V4)
 AAIFM: |CICA (Certified Internal Control Auditor)
 ISI: | Scrum Master Certified (SMC)
 
-
-
-![biram-ba-hk-47](https://user-images.githubusercontent.com/84951299/159853313-03569b38-b1fe-4a1a-9538-71fcfe4afdde.jpeg)
